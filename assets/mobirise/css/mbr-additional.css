@@ -2697,3 +2697,17 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rxjjBRVgxn {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-rxjjBRVgxn .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rxjjBRVgxn .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-rxjjBRVgxn .media-container-column {
+    padding: 1rem !important;
+  }
+}
